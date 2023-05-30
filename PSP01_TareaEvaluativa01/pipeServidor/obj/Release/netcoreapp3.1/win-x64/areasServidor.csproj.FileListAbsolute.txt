@@ -1,0 +1,14 @@
+C:\Users\Iker\Source\Repos\PSP2022_2023\PSP01\PSP01_TA02\PSP01_Calculadora_Entrega\PSP01_TareaEvaluativa01\pipeServidor\bin\Release\netcoreapp3.1\win-x64\areasServidor.exe
+C:\Users\Iker\Source\Repos\PSP2022_2023\PSP01\PSP01_TA02\PSP01_Calculadora_Entrega\PSP01_TareaEvaluativa01\pipeServidor\bin\Release\netcoreapp3.1\win-x64\areasServidor.deps.json
+C:\Users\Iker\Source\Repos\PSP2022_2023\PSP01\PSP01_TA02\PSP01_Calculadora_Entrega\PSP01_TareaEvaluativa01\pipeServidor\bin\Release\netcoreapp3.1\win-x64\areasServidor.runtimeconfig.json
+C:\Users\Iker\Source\Repos\PSP2022_2023\PSP01\PSP01_TA02\PSP01_Calculadora_Entrega\PSP01_TareaEvaluativa01\pipeServidor\bin\Release\netcoreapp3.1\win-x64\areasServidor.runtimeconfig.dev.json
+C:\Users\Iker\Source\Repos\PSP2022_2023\PSP01\PSP01_TA02\PSP01_Calculadora_Entrega\PSP01_TareaEvaluativa01\pipeServidor\bin\Release\netcoreapp3.1\win-x64\areasServidor.dll
+C:\Users\Iker\Source\Repos\PSP2022_2023\PSP01\PSP01_TA02\PSP01_Calculadora_Entrega\PSP01_TareaEvaluativa01\pipeServidor\bin\Release\netcoreapp3.1\win-x64\areasServidor.pdb
+C:\Users\Iker\Source\Repos\PSP2022_2023\PSP01\PSP01_TA02\PSP01_Calculadora_Entrega\PSP01_TareaEvaluativa01\pipeServidor\obj\Release\netcoreapp3.1\win-x64\areasServidor.csproj.AssemblyReference.cache
+C:\Users\Iker\Source\Repos\PSP2022_2023\PSP01\PSP01_TA02\PSP01_Calculadora_Entrega\PSP01_TareaEvaluativa01\pipeServidor\obj\Release\netcoreapp3.1\win-x64\areasServidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iker\Source\Repos\PSP2022_2023\PSP01\PSP01_TA02\PSP01_Calculadora_Entrega\PSP01_TareaEvaluativa01\pipeServidor\obj\Release\netcoreapp3.1\win-x64\areasServidor.AssemblyInfoInputs.cache
+C:\Users\Iker\Source\Repos\PSP2022_2023\PSP01\PSP01_TA02\PSP01_Calculadora_Entrega\PSP01_TareaEvaluativa01\pipeServidor\obj\Release\netcoreapp3.1\win-x64\areasServidor.AssemblyInfo.cs
+C:\Users\Iker\Source\Repos\PSP2022_2023\PSP01\PSP01_TA02\PSP01_Calculadora_Entrega\PSP01_TareaEvaluativa01\pipeServidor\obj\Release\netcoreapp3.1\win-x64\areasServidor.csproj.CoreCompileInputs.cache
+C:\Users\Iker\Source\Repos\PSP2022_2023\PSP01\PSP01_TA02\PSP01_Calculadora_Entrega\PSP01_TareaEvaluativa01\pipeServidor\obj\Release\netcoreapp3.1\win-x64\areasServidor.dll
+C:\Users\Iker\Source\Repos\PSP2022_2023\PSP01\PSP01_TA02\PSP01_Calculadora_Entrega\PSP01_TareaEvaluativa01\pipeServidor\obj\Release\netcoreapp3.1\win-x64\areasServidor.pdb
+C:\Users\Iker\Source\Repos\PSP2022_2023\PSP01\PSP01_TA02\PSP01_Calculadora_Entrega\PSP01_TareaEvaluativa01\pipeServidor\obj\Release\netcoreapp3.1\win-x64\areasServidor.genruntimeconfig.cache

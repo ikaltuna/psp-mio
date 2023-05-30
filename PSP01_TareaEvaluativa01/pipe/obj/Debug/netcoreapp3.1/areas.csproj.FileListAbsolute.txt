@@ -1,0 +1,14 @@
+C:\Users\Iker\Source\Repos\PSP2022_2023\PSP01\PSP01_TA02\PSP01_Calculadora_Entrega\PSP01_TareaEvaluativa01\pipe\bin\Debug\netcoreapp3.1\areas.exe
+C:\Users\Iker\Source\Repos\PSP2022_2023\PSP01\PSP01_TA02\PSP01_Calculadora_Entrega\PSP01_TareaEvaluativa01\pipe\bin\Debug\netcoreapp3.1\areas.deps.json
+C:\Users\Iker\Source\Repos\PSP2022_2023\PSP01\PSP01_TA02\PSP01_Calculadora_Entrega\PSP01_TareaEvaluativa01\pipe\bin\Debug\netcoreapp3.1\areas.runtimeconfig.json
+C:\Users\Iker\Source\Repos\PSP2022_2023\PSP01\PSP01_TA02\PSP01_Calculadora_Entrega\PSP01_TareaEvaluativa01\pipe\bin\Debug\netcoreapp3.1\areas.runtimeconfig.dev.json
+C:\Users\Iker\Source\Repos\PSP2022_2023\PSP01\PSP01_TA02\PSP01_Calculadora_Entrega\PSP01_TareaEvaluativa01\pipe\bin\Debug\netcoreapp3.1\areas.dll
+C:\Users\Iker\Source\Repos\PSP2022_2023\PSP01\PSP01_TA02\PSP01_Calculadora_Entrega\PSP01_TareaEvaluativa01\pipe\bin\Debug\netcoreapp3.1\areas.pdb
+C:\Users\Iker\Source\Repos\PSP2022_2023\PSP01\PSP01_TA02\PSP01_Calculadora_Entrega\PSP01_TareaEvaluativa01\pipe\obj\Debug\netcoreapp3.1\areas.csproj.AssemblyReference.cache
+C:\Users\Iker\Source\Repos\PSP2022_2023\PSP01\PSP01_TA02\PSP01_Calculadora_Entrega\PSP01_TareaEvaluativa01\pipe\obj\Debug\netcoreapp3.1\areas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iker\Source\Repos\PSP2022_2023\PSP01\PSP01_TA02\PSP01_Calculadora_Entrega\PSP01_TareaEvaluativa01\pipe\obj\Debug\netcoreapp3.1\areas.AssemblyInfoInputs.cache
+C:\Users\Iker\Source\Repos\PSP2022_2023\PSP01\PSP01_TA02\PSP01_Calculadora_Entrega\PSP01_TareaEvaluativa01\pipe\obj\Debug\netcoreapp3.1\areas.AssemblyInfo.cs
+C:\Users\Iker\Source\Repos\PSP2022_2023\PSP01\PSP01_TA02\PSP01_Calculadora_Entrega\PSP01_TareaEvaluativa01\pipe\obj\Debug\netcoreapp3.1\areas.csproj.CoreCompileInputs.cache
+C:\Users\Iker\Source\Repos\PSP2022_2023\PSP01\PSP01_TA02\PSP01_Calculadora_Entrega\PSP01_TareaEvaluativa01\pipe\obj\Debug\netcoreapp3.1\areas.dll
+C:\Users\Iker\Source\Repos\PSP2022_2023\PSP01\PSP01_TA02\PSP01_Calculadora_Entrega\PSP01_TareaEvaluativa01\pipe\obj\Debug\netcoreapp3.1\areas.pdb
+C:\Users\Iker\Source\Repos\PSP2022_2023\PSP01\PSP01_TA02\PSP01_Calculadora_Entrega\PSP01_TareaEvaluativa01\pipe\obj\Debug\netcoreapp3.1\areas.genruntimeconfig.cache

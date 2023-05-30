@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "17bb6a16-9561-4219-aa4c-bebc233edd55": {
+      "ProjectGuid": "17bb6a16-9561-4219-aa4c-bebc233edd55",
+      "DisplayName": "PSP03_TCP_NumAleatorioServidor",
+      "ColorIndex": 0
+    },
+    "3f8b6d95-c58c-4e01-a87a-ff4ff1da0a8d": {
+      "ProjectGuid": "3f8b6d95-c58c-4e01-a87a-ff4ff1da0a8d",
+      "DisplayName": "PSP03_TCP_NumAleatorio_Cliente",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "dc633918-aeae-4c21-b8eb-edcd9a248195": {
+      "ProjectGuid": "dc633918-aeae-4c21-b8eb-edcd9a248195",
+      "DisplayName": "PSP03_TCP_NumAleatorioServidor",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

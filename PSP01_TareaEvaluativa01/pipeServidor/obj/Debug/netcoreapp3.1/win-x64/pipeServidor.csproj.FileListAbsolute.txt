@@ -1,0 +1,14 @@
+C:\Users\Iker\Source\Repos\PSP2022_2023\PSP01\PSP01_TA02\PSP01_Calculadora_Entrega\PSP01_TE02\pipeServidor\bin\Debug\netcoreapp3.1\win-x64\pipeServidor.exe
+C:\Users\Iker\Source\Repos\PSP2022_2023\PSP01\PSP01_TA02\PSP01_Calculadora_Entrega\PSP01_TE02\pipeServidor\bin\Debug\netcoreapp3.1\win-x64\pipeServidor.deps.json
+C:\Users\Iker\Source\Repos\PSP2022_2023\PSP01\PSP01_TA02\PSP01_Calculadora_Entrega\PSP01_TE02\pipeServidor\bin\Debug\netcoreapp3.1\win-x64\pipeServidor.runtimeconfig.json
+C:\Users\Iker\Source\Repos\PSP2022_2023\PSP01\PSP01_TA02\PSP01_Calculadora_Entrega\PSP01_TE02\pipeServidor\bin\Debug\netcoreapp3.1\win-x64\pipeServidor.runtimeconfig.dev.json
+C:\Users\Iker\Source\Repos\PSP2022_2023\PSP01\PSP01_TA02\PSP01_Calculadora_Entrega\PSP01_TE02\pipeServidor\bin\Debug\netcoreapp3.1\win-x64\pipeServidor.dll
+C:\Users\Iker\Source\Repos\PSP2022_2023\PSP01\PSP01_TA02\PSP01_Calculadora_Entrega\PSP01_TE02\pipeServidor\bin\Debug\netcoreapp3.1\win-x64\pipeServidor.pdb
+C:\Users\Iker\Source\Repos\PSP2022_2023\PSP01\PSP01_TA02\PSP01_Calculadora_Entrega\PSP01_TE02\pipeServidor\obj\Debug\netcoreapp3.1\win-x64\pipeServidor.csproj.AssemblyReference.cache
+C:\Users\Iker\Source\Repos\PSP2022_2023\PSP01\PSP01_TA02\PSP01_Calculadora_Entrega\PSP01_TE02\pipeServidor\obj\Debug\netcoreapp3.1\win-x64\pipeServidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iker\Source\Repos\PSP2022_2023\PSP01\PSP01_TA02\PSP01_Calculadora_Entrega\PSP01_TE02\pipeServidor\obj\Debug\netcoreapp3.1\win-x64\pipeServidor.AssemblyInfoInputs.cache
+C:\Users\Iker\Source\Repos\PSP2022_2023\PSP01\PSP01_TA02\PSP01_Calculadora_Entrega\PSP01_TE02\pipeServidor\obj\Debug\netcoreapp3.1\win-x64\pipeServidor.AssemblyInfo.cs
+C:\Users\Iker\Source\Repos\PSP2022_2023\PSP01\PSP01_TA02\PSP01_Calculadora_Entrega\PSP01_TE02\pipeServidor\obj\Debug\netcoreapp3.1\win-x64\pipeServidor.csproj.CoreCompileInputs.cache
+C:\Users\Iker\Source\Repos\PSP2022_2023\PSP01\PSP01_TA02\PSP01_Calculadora_Entrega\PSP01_TE02\pipeServidor\obj\Debug\netcoreapp3.1\win-x64\pipeServidor.dll
+C:\Users\Iker\Source\Repos\PSP2022_2023\PSP01\PSP01_TA02\PSP01_Calculadora_Entrega\PSP01_TE02\pipeServidor\obj\Debug\netcoreapp3.1\win-x64\pipeServidor.pdb
+C:\Users\Iker\Source\Repos\PSP2022_2023\PSP01\PSP01_TA02\PSP01_Calculadora_Entrega\PSP01_TE02\pipeServidor\obj\Debug\netcoreapp3.1\win-x64\pipeServidor.genruntimeconfig.cache

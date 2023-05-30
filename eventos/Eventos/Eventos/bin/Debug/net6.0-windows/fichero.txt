@@ -1,0 +1,5 @@
+Tipo de evento: Conferencia.
+Nombre de evento: Charla con Ander Izagirre: "Vuelta al país de Elkano".
+Hora de evento: 16/02/2023 0:00:00.
+Edificio: Kulturate.
+Precio: Gratis.

@@ -1,0 +1,15 @@
+C:\Users\Iker\Documents\PSP03_Tarea_Evaluativa_Foto\bin\Debug\net6.0\PSP03_TCP_Foto_Servidor.exe
+C:\Users\Iker\Documents\PSP03_Tarea_Evaluativa_Foto\bin\Debug\net6.0\PSP03_TCP_Foto_Servidor.deps.json
+C:\Users\Iker\Documents\PSP03_Tarea_Evaluativa_Foto\bin\Debug\net6.0\PSP03_TCP_Foto_Servidor.runtimeconfig.json
+C:\Users\Iker\Documents\PSP03_Tarea_Evaluativa_Foto\bin\Debug\net6.0\PSP03_TCP_Foto_Servidor.dll
+C:\Users\Iker\Documents\PSP03_Tarea_Evaluativa_Foto\bin\Debug\net6.0\PSP03_TCP_Foto_Servidor.pdb
+C:\Users\Iker\Documents\PSP03_Tarea_Evaluativa_Foto\obj\Debug\net6.0\PSP03_TCP_Foto_Servidor.csproj.AssemblyReference.cache
+C:\Users\Iker\Documents\PSP03_Tarea_Evaluativa_Foto\obj\Debug\net6.0\PSP03_TCP_Foto_Servidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iker\Documents\PSP03_Tarea_Evaluativa_Foto\obj\Debug\net6.0\PSP03_TCP_Foto_Servidor.AssemblyInfoInputs.cache
+C:\Users\Iker\Documents\PSP03_Tarea_Evaluativa_Foto\obj\Debug\net6.0\PSP03_TCP_Foto_Servidor.AssemblyInfo.cs
+C:\Users\Iker\Documents\PSP03_Tarea_Evaluativa_Foto\obj\Debug\net6.0\PSP03_TCP_Foto_Servidor.csproj.CoreCompileInputs.cache
+C:\Users\Iker\Documents\PSP03_Tarea_Evaluativa_Foto\obj\Debug\net6.0\PSP03_TCP_Foto_Servidor.dll
+C:\Users\Iker\Documents\PSP03_Tarea_Evaluativa_Foto\obj\Debug\net6.0\refint\PSP03_TCP_Foto_Servidor.dll
+C:\Users\Iker\Documents\PSP03_Tarea_Evaluativa_Foto\obj\Debug\net6.0\PSP03_TCP_Foto_Servidor.pdb
+C:\Users\Iker\Documents\PSP03_Tarea_Evaluativa_Foto\obj\Debug\net6.0\PSP03_TCP_Foto_Servidor.genruntimeconfig.cache
+C:\Users\Iker\Documents\PSP03_Tarea_Evaluativa_Foto\obj\Debug\net6.0\ref\PSP03_TCP_Foto_Servidor.dll

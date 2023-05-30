@@ -1,0 +1,5 @@
+Tipo de evento: Teatro.
+Nombre de evento: "PORRUTATA (EZ PORRU EZ PATATA)".
+Hora de evento: 05/02/2023 0:00:00.
+Edificio: Auditorio Txema Blasco.
+Precio: 1,5 / 2 €.

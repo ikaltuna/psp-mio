@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L+ze6GmRfTNgQn27KIhwTS9v2vW/90vp0jsDkDBk8STaezaEQOkG+TjwQXXpKXpg2K5nJYsJhDU46njfdfWiIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Iker\\Documents\\eventos\\Eventos\\Eventos\\Eventos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Iker\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

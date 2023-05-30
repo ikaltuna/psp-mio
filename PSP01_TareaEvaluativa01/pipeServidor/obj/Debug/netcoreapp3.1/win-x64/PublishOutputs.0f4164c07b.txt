@@ -1,0 +1,5 @@
+C:\Users\Iker\Source\Repos\PSP2022_2023\PSP01\PSP01_TA02\PSP01_Calculadora_Entrega\PSP01_TE02\pipeServidor\bin\Release\netcoreapp3.1\publish\win-x64\pipeServidor.exe
+C:\Users\Iker\Source\Repos\PSP2022_2023\PSP01\PSP01_TA02\PSP01_Calculadora_Entrega\PSP01_TE02\pipeServidor\bin\Release\netcoreapp3.1\publish\win-x64\pipeServidor.dll
+C:\Users\Iker\Source\Repos\PSP2022_2023\PSP01\PSP01_TA02\PSP01_Calculadora_Entrega\PSP01_TE02\pipeServidor\bin\Release\netcoreapp3.1\publish\win-x64\pipeServidor.deps.json
+C:\Users\Iker\Source\Repos\PSP2022_2023\PSP01\PSP01_TA02\PSP01_Calculadora_Entrega\PSP01_TE02\pipeServidor\bin\Release\netcoreapp3.1\publish\win-x64\pipeServidor.runtimeconfig.json
+C:\Users\Iker\Source\Repos\PSP2022_2023\PSP01\PSP01_TA02\PSP01_Calculadora_Entrega\PSP01_TE02\pipeServidor\bin\Release\netcoreapp3.1\publish\win-x64\pipeServidor.pdb

@@ -1,0 +1,15 @@
+C:\Users\Iker\Documents\PSP03_Tarea_Aprendizaje_01\bin\Debug\net6.0\PSP03_TCP_PiedraPapelTijeraServidor.exe
+C:\Users\Iker\Documents\PSP03_Tarea_Aprendizaje_01\bin\Debug\net6.0\PSP03_TCP_PiedraPapelTijeraServidor.deps.json
+C:\Users\Iker\Documents\PSP03_Tarea_Aprendizaje_01\bin\Debug\net6.0\PSP03_TCP_PiedraPapelTijeraServidor.runtimeconfig.json
+C:\Users\Iker\Documents\PSP03_Tarea_Aprendizaje_01\bin\Debug\net6.0\PSP03_TCP_PiedraPapelTijeraServidor.dll
+C:\Users\Iker\Documents\PSP03_Tarea_Aprendizaje_01\bin\Debug\net6.0\PSP03_TCP_PiedraPapelTijeraServidor.pdb
+C:\Users\Iker\Documents\PSP03_Tarea_Aprendizaje_01\obj\Debug\net6.0\PSP03_TCP_PiedraPapelTijeraServidor.csproj.AssemblyReference.cache
+C:\Users\Iker\Documents\PSP03_Tarea_Aprendizaje_01\obj\Debug\net6.0\PSP03_TCP_PiedraPapelTijeraServidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iker\Documents\PSP03_Tarea_Aprendizaje_01\obj\Debug\net6.0\PSP03_TCP_PiedraPapelTijeraServidor.AssemblyInfoInputs.cache
+C:\Users\Iker\Documents\PSP03_Tarea_Aprendizaje_01\obj\Debug\net6.0\PSP03_TCP_PiedraPapelTijeraServidor.AssemblyInfo.cs
+C:\Users\Iker\Documents\PSP03_Tarea_Aprendizaje_01\obj\Debug\net6.0\PSP03_TCP_PiedraPapelTijeraServidor.csproj.CoreCompileInputs.cache
+C:\Users\Iker\Documents\PSP03_Tarea_Aprendizaje_01\obj\Debug\net6.0\PSP03_TCP_PiedraPapelTijeraServidor.dll
+C:\Users\Iker\Documents\PSP03_Tarea_Aprendizaje_01\obj\Debug\net6.0\refint\PSP03_TCP_PiedraPapelTijeraServidor.dll
+C:\Users\Iker\Documents\PSP03_Tarea_Aprendizaje_01\obj\Debug\net6.0\PSP03_TCP_PiedraPapelTijeraServidor.pdb
+C:\Users\Iker\Documents\PSP03_Tarea_Aprendizaje_01\obj\Debug\net6.0\PSP03_TCP_PiedraPapelTijeraServidor.genruntimeconfig.cache
+C:\Users\Iker\Documents\PSP03_Tarea_Aprendizaje_01\obj\Debug\net6.0\ref\PSP03_TCP_PiedraPapelTijeraServidor.dll
